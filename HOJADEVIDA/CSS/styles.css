@@ -1,0 +1,86 @@
+*{
+    color:#292933;
+    font-size: 15px;
+}
+.foto{
+
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px black;
+}
+.image{
+    height: 50px;
+    width: 50px;
+}
+div{
+    text-align: justify;
+    padding: 15px
+}
+.info{
+    text-align: center;
+
+}
+h1, h2{
+    color: #010CFA;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h3{
+    color: #0113B6
+}
+h4{
+    color: #516EEF
+}
+.habilidades {
+    display: inline; 
+    margin-right: 5px; 
+}
+a{
+    margin: justify;
+}
+.texto{
+    color: #2830C7
+}
+.tablaprincipal{
+    border-top: 2px solid #B9C0F0;
+    border-bottom: 2px solid #B9C0F0;
+    border-left: 2px solid #B9C0F0;
+    border-right: 2px solid #B9C0F0;
+}
+.tablaprincipal, .tdprincipal{
+    background-color: #B6D7EA;
+    width: 33.3%;
+    margin: 0 auto;
+}
+.thprincipal{
+    background-color: #B7E8EB;
+    width: 33.3%;
+    margin: 0 auto;
+}
+.tdprincipal{
+    background-color: #B7E8EB;
+    width: 33.3%;
+    margin: 0 auto;
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    vertical-align: top;
+}
+.tdsecundario{
+    text-align: justify;
+    padding: 8px;
+    vertical-align: middle;
+}
+.tablasecundaria{
+    margin: 0 auto;
+    width: 80%;
+
+}
+p{
+    color: #3400EB
+}
+p:hover{
+    color: #8505ED
+}
